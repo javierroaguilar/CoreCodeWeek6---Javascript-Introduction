@@ -74,3 +74,19 @@ Answer
 
   let salutation = greet()
 ```
+
+## Challenge 10 - Read a function
+
+Which value does x have after execution of the following code?
+``` Javascript 
+function hello() {
+  return 'Hi!';
+}
+let x = hello();
+```
+
+Answer
+``` Javascript 
+'Hi!'
+```
+
