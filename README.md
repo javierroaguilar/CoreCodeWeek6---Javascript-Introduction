@@ -20,16 +20,7 @@
   let tree = 'maple';
 ```
 
-## Challenge 4 - Function
-
-``` Javascript 
-  function greet(){
-  return 'Haydo!';}
-
-  let salutation = greet()
-```
-
-## Challenge 5 - Value of a variable
+## Challenge 4 - Value of a variable
 
 What is the value of x for this code?
 ``` Javascript
@@ -43,7 +34,7 @@ Answer
   'Toe'
 ```
 
-## Challenge 6 - Re assign the vale of a variable
+## Challenge 5 - Re assign the vale of a variable
 
 What is the value of x for this code?
 ``` Javascript
@@ -56,4 +47,30 @@ Answer
 'Hardy'
 ```
 
-## Challenge 7
+## Challenge 6 - Funciones
+
+``` Javascript
+  function hello(){ 
+  return 'Hello world!';
+  }
+```
+
+## Challenge 8 - 2 Funciones
+
+``` Javascript
+  function a(){
+  return 'Hello a!'}
+  function b(){
+  return 'Hello b!'}
+```
+
+## Challenge 9 - Function call
+1. Define a function greet returning the value 'Haydo!'.
+2. Declare a variable salutation. Call the function greet and assign the result of the call to the variable salutation.
+
+``` Javascript 
+  function greet(){
+  return 'Haydo!';}
+
+  let salutation = greet()
+```
