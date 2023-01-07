@@ -55,3 +55,5 @@ Answer
 ``` Javascript
 'Hardy'
 ```
+
+## Challenge 7
