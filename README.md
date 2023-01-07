@@ -13,9 +13,18 @@
   'Geeta'
 ```
 
-## Chalenge 3
+## Chalenge 3 - Declare 2 variables
 
 ``` Javascript 
-let flower = 'rose';
-let tree = 'maple';
+  let flower = 'rose';
+  let tree = 'maple';
+```
+
+## Challenge 4 - Function
+
+``` Javascript 
+  function greet(){
+  return 'Haydo!';}
+
+  let salutation = greet()
 ```
