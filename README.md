@@ -90,3 +90,18 @@ Answer
 'Hi!'
 ```
 
+## Challenge 11 - Function with parameters
+``` Javascript
+function echo(input) {
+  return input;
+}
+```
+
+## Challenge 12 - String
+
+``` Javascript
+function greet(x) {
+return 'Hello ' + x +  '!'}
+
+## Challenge 13 - 
+```
