@@ -26,7 +26,7 @@ What is the value of x for this code?
 ``` Javascript
 let x = 'Tic';
 x = 'Tac';
-x = 'Toe';
+x = 'Toe';5
 ```
 
 Answer
@@ -102,6 +102,25 @@ function echo(input) {
 ``` Javascript
 function greet(x) {
 return 'Hello ' + x +  '!'}
+```
 
-## Challenge 13 - 
+## Challenge 13 - String.lenght
+
+``` Javascript
+function length(x) {
+return x.length;}
+```
+
+## Challenge 14 - Lower & Upper Case
+
+``` Javascript
+function toCase(x){
+return x.toLowerCase() + '-' + x.toUpperCase()}
+```
+
+## Challenge 15 - CharAt
+
+``` Javascript
+function shortcut(x,y){
+return x.charAt(0) + y.charAt(0)}
 ```
