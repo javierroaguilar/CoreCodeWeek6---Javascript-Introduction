@@ -124,3 +124,12 @@ return x.toLowerCase() + '-' + x.toUpperCase()}
 function shortcut(x,y){
 return x.charAt(0) + y.charAt(0)}
 ```
+
+## Challenge 16 - IndexOf
+
+``` Javascript
+function indexOfIgnoreCase(x,y){
+let e = x.toLowerCase()
+let t = y.toLowerCase()
+return e.indexOf(t)}
+```
